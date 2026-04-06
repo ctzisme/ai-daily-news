@@ -1,0 +1,17 @@
+{
+  "sources": {
+    "Anthropic": 1.5,
+    "OpenAI Blog": 1.2,
+    "Google DeepMind": 1.0,
+    "Meta AI": 1.0,
+    "Hugging Face": 1.0,
+    "GitHub Trending": 0.9,
+    "Hacker News": 0.9,
+    "MIT Tech Review": 0.8,
+    "The Verge AI": 0.7,
+    "xAI": 1.0,
+    "Mistral": 0.9
+  },
+  "tags": {},
+  "updated_at": "2026-04-06"
+}
